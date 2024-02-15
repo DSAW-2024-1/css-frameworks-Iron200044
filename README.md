@@ -32,6 +32,8 @@ El objetivo de este taller es hacer que la página que ya desarrollamos se vea c
 | **Desktop**             | +1024px                    |
 
 ## Diseño de la pagina con bootstrap
+## Link de la pagina: https://dsaw-2024-1.github.io/css-frameworks-Iron200044/
+
 - Pagina en celular:
 - <img src="frameworks bootstrap-pagina celular.jpeg" alt="celular" />
 
