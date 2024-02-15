@@ -31,6 +31,20 @@ El objetivo de este taller es hacer que la página que ya desarrollamos se vea c
 | **Tablet Portrait**    | 768px x 1024p              |
 | **Desktop**             | +1024px                    |
 
+## Diseño de la pagina con bootstrap
+- Pagina en celular:
+- <img src="frameworks bootstrap-pagina celular.jpeg" alt="celular" />
+
+- Pagina en tablet:
+- <img src="frameworks bootstrap-pagina trablet.jpeg" alt="reactionImg" />
+
+- Pagina en escritorio:
+- <img src="frameworks bootstrap-pagina escritorio.jpeg" alt="escritorio" />
+
+
+
+
+
 ## Rúbrica de evaluación
 | Aspecto                            | Puntuación |
 |-----------------------------------|------------|
